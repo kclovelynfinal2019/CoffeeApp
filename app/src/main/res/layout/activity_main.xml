@@ -36,7 +36,8 @@
             android:text="-"
             android:background="#e60bd3"
             android:textColor="@android:color/black"
-            tools:ignore="OnClick" />
+            tools:ignore="OnClick"
+            android:layout_gravity="center" />
 
         <TextView
             android:id="@+id/quantity_text_view"
